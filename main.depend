@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1746026247 source:c:\users\cristi\desktop\fac\poo\proiect asta e sigur\main\main.cpp
+	"manager.h"
+	"programator.h"
+	"recrutor.h"
+	"departament.h"
+	"exceptii.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1746026494 c:\users\cristi\desktop\fac\poo\proiect asta e sigur\main\manager.h
+	"angajat.h"
+	<iostream>
+
+1746026358 c:\users\cristi\desktop\fac\poo\proiect asta e sigur\main\angajat.h
+	<string>
+	<memory>
+
+1746026539 c:\users\cristi\desktop\fac\poo\proiect asta e sigur\main\programator.h
+	"angajat.h"
+	<iostream>
+
+1746026568 c:\users\cristi\desktop\fac\poo\proiect asta e sigur\main\recrutor.h
+	"angajat.h"
+	<iostream>
+
+1746026423 c:\users\cristi\desktop\fac\poo\proiect asta e sigur\main\departament.h
+	"angajat.h"
+	"exceptii.h"
+	<vector>
+	<memory>
+	<iostream>
+
+1746026465 c:\users\cristi\desktop\fac\poo\proiect asta e sigur\main\exceptii.h
+	<stdexcept>
+	<string>
+
