@@ -36,3 +36,53 @@
 	<stdexcept>
 	<string>
 
+1746467445 source:c:\users\cristi\desktop\fac\poo\oop-project-2-main\oop-project-2-main\main.cpp
+	"manager.h"
+	"programator.h"
+	"recrutor.h"
+	"departament.h"
+	"exceptii.h"
+	"candidati.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1746462572 c:\users\cristi\desktop\fac\poo\oop-project-2-main\oop-project-2-main\manager.h
+	"angajat.h"
+	<iostream>
+
+1746462572 c:\users\cristi\desktop\fac\poo\oop-project-2-main\oop-project-2-main\angajat.h
+	<string>
+	<memory>
+
+1746462572 c:\users\cristi\desktop\fac\poo\oop-project-2-main\oop-project-2-main\programator.h
+	"angajat.h"
+	<iostream>
+
+1746462572 c:\users\cristi\desktop\fac\poo\oop-project-2-main\oop-project-2-main\recrutor.h
+	"angajat.h"
+	<iostream>
+
+1746466717 c:\users\cristi\desktop\fac\poo\oop-project-2-main\oop-project-2-main\departament.h
+	"angajat.h"
+	"exceptii.h"
+	<vector>
+	<memory>
+	<map>
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+
+1746462572 c:\users\cristi\desktop\fac\poo\oop-project-2-main\oop-project-2-main\exceptii.h
+	<stdexcept>
+	<string>
+
+1746467608 c:\users\cristi\desktop\fac\poo\oop-project-2-main\oop-project-2-main\candidati.h
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<sstream>
+

@@ -21,4 +21,4 @@ public:
     }
 };
 
-#endif // PROGRAMATOR_H
+#endif

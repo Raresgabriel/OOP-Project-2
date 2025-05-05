@@ -1,0 +1,12 @@
+Bogdan Dumitrescu,Facultate,4,Programator,C++;Python;Git
+Ioana Tudor,Master,5,Programator,Java;Spring;SQL
+Cristian Matei,Facultate,3,Recrutor,HR;Onboarding;Interviewing
+Raluca Vasilescu,Doctorat,8,Cercetator,Machine Learning;R;Python
+Mihnea Stoian,Master,6,Programator,Go;Docker;Kubernetes
+Andrei Petrea,Facultate,2,Recrutor,Recruitment;Networking
+Gabriela Enache,Master,7,Programator,JavaScript;React;Node.js
+Sebastian Dumitru,Doctorat,10,Cercetator,Data Analysis;Statistics
+Laura Dobre,Facultate,3,Programator,PHP;Laravel;MySQL
+Alin Rusu,Master,5,Recrutor,Talent Acquisition;Employer Branding
+Monica Preda,Master,9,Cercetator,Deep Learning;TensorFlow
+

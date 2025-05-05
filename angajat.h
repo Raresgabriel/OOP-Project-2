@@ -23,4 +23,4 @@ public:
     const std::string& getNume() const { return nume; }
 };
 
-#endif // ANGAJAT_H
+#endif

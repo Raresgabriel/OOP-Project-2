@@ -21,4 +21,4 @@ public:
     }
 };
 
-#endif // RECRUTOR_H
+#endif

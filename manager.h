@@ -21,4 +21,4 @@ public:
     }
 };
 
-#endif // MANAGER_H
+#endif
